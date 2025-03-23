@@ -31,3 +31,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 This work is inspired by foundational literature on causal inference and AI-powered financial forecasting.
+
+## Read the Article on Medium
+You can read [the full article on Medium](https://medium.com/@alexbell2012/how-causal-ai-could-transform-your-investment-strategy-insights-from-microsoft-stock-analysis-f8e0ba78855c) for a detailed explanation of this project.
+: How Causal AI Could Transform Your Investment Strategy: Insights from Microsoft Stock Analysis
